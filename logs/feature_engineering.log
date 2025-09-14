@@ -1,0 +1,6 @@
+2025-09-14 21:44:31,391 - feature_engineering - ERROR - File not found: params.yaml
+2025-09-14 21:44:31,392 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: 'params.yaml'
+2025-09-14 21:46:09,337 - feature_engineering - ERROR - File not found: params.yaml
+2025-09-14 21:46:09,338 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: 'params.yaml'
+2025-09-14 21:46:58,952 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-09-14 21:46:58,990 - feature_engineering - ERROR - Failed to complete the feature engineering process: 'NoneType' object is not subscriptable
